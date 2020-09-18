@@ -1,1 +1,1 @@
-# google-homepage
+The purpose of this project is to build the Google homepage on my own using what I have learned about HTML and CSS.
