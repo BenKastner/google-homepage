@@ -1,7 +1,3 @@
-header {
-    display: flex;
-}
-
 div {
     display: flex;
     justify-content: center;
@@ -13,16 +9,16 @@ ul {
     padding: 0;
 }
 
-li {
-    float: left;
-}
-
-a {
+li a {
     display: block;
-    padding: 8px;
     text-decoration: none;
+    color: #222;
+    font-family: arial, sans-serif;
+    font-size: 13px;
 }
 
 footer {
-
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
