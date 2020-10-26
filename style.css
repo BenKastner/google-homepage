@@ -35,10 +35,32 @@ a {
     text-align: center;
 }
 
-div {
+.buttons {
     display: flex;
     justify-content: center;
     padding: 10px;
+}
+
+.search {
+    display: flex;
+    flex: auto;
+    border: 1px solid #dfe1e5;
+    width: 482px;
+    height: 44px;
+    margin: auto;
+    border-radius: 24px;
+}
+
+.searchbox {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    width: 400px;
+}
+
+#search {
+    width: 395px;
+    border: none;
 }
 
 footer {
