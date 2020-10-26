@@ -1,1 +1,1 @@
-The purpose of this project is to build the Google homepage on my own using what I have learned about HTML and CSS.
+The purpose of this project is to build something that looks like the Google homepage using what I have learned so far about HTML and CSS.
